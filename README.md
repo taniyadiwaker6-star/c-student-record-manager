@@ -16,6 +16,15 @@ input validation.
 - Linux, macOS, or Windows with a C compiler installed
 
 ## Build and run
+
+### 1. Web Interface (HTML / CSS / JavaScript)
+Open `index.html` in your favorite web browser (or right-click `index.html` in VS Code and choose **Open with Live Server**).
+- **Interactive UI**: Add, search, update, delete, and sort records in a visual dashboard.
+- **Linked List Memory Visualizer**: Real-time diagram of `head -> Node -> next -> NULL`.
+- **C Terminal Simulator**: Try out the exact CLI console options right in your browser.
+- **CSV Import/Export**: Fully compatible with `students.csv`.
+
+### 2. C Command-Line Application
 From this project directory:
 
 ```bash

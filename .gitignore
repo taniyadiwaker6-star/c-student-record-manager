@@ -2,3 +2,4 @@ student_manager
 student_manager.exe
 students.csv
 *.o
+.vscode/
